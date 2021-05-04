@@ -19,6 +19,7 @@
     "standard": "^11.0.1"
   },
   "dependencies": {
+    "node-pre-gyp": "^0.16.0",
     "babel-polyfill": "^6.26.0",
     "core-js": "^2.5.5",
     "filenamify": "^2.0.0",
