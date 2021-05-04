@@ -34,6 +34,7 @@
     "preact-router": "^2.6.0",
     "pretty-hash": "^1.0.1",
     "tachyons": "^4.9.1",
+    "leveldown": "^2.0.1",
     "window.ipfs-fallback": "^1.0.0"
   },
   "description": "> Share files with friends over IPFS",
