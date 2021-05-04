@@ -42,7 +42,7 @@
   },
       "engines": {
     "node": "8.x",
-    "npm": "6.x"
+    "npm": "5.x"
   },
   "author": "olizilla",
   "license": "MIT",
