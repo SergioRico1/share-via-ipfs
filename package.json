@@ -37,11 +37,11 @@
   },
   "description": "> Share files with friends over IPFS",
   "main": "index.js",
-    "engines": {
-    "node": "14.x"
-  }
   "directories": {
     "doc": "docs"
+  },
+      "engines": {
+    "node": "14.x"
   },
   "author": "olizilla",
   "license": "MIT",
